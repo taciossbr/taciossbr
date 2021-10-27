@@ -1,3 +1,5 @@
+<img src="Tacio S. S.jpg"/>
+
 # Olá DEVs 👋
 
 Gosto de trabalhar criando softwares, e ajudar outras pessoas a entrar nesse mundo de desenvolvimento!
