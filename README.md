@@ -34,4 +34,8 @@ linguagens_e_ferramentas = [
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=taciossbr" />
 </a>
 
+<a href="https://www.linkedin.com/in/taciossbr/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Blog-FFA500?style=flat-square&logo=RSS&logoColor=white&link=taciossbr" />
+</a>
+
 
