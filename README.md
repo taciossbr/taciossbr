@@ -23,7 +23,7 @@ linguagens_e_ferramentas = [
 
 - 💻 Sou um desenvolvedor Fullstack, buscando se especializar em BackEnd
 - 📚 Atualmente estudando: Django, Programação, Inglês
-- 📖 Lendo: SICP
+- 📖 Lendo: Nand2Tetris
 - 🧑‍💼 Trabalhando na **BCR CX**, criando uma melhor experiência para clientes com **React, Javascript e Python!**
 
 ## Contato
